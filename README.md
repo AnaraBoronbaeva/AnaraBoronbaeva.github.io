@@ -1,1 +1,3 @@
-# AnaraBoronbaeva.github.io
+#Deployed Link
+
+https://AnaraBoronbaeva.github.io/
